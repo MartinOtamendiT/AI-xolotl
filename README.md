@@ -1,7 +1,10 @@
 
-# Recipe Generator
+# AI-xolotl
 
-This is a Next.js application built with Firebase Studio that allows users to generate recipes based on the ingredients they have available. It uses AI (via Google's Gemini API) to create the recipes.
+This is a Next.js application built with Firebase Studio that allows users to generate recipes based on the ingredients they have available. It uses AI (via Google's Gemini API) to create the recipes. You can test the deployed app [here](https://ai-xolotl.vercel.app/).
+
+## Back-end
+You can consult the back-end application developed using Python on this [repo](https://github.com/MartinOtamendiT/AI-xolotl-backend).
 
 ## Getting Started
 
